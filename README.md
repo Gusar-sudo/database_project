@@ -49,7 +49,7 @@ python --version
 2. Перейдите в папку проекта:
 
 ```bash
-cd "c:\Users\User\Desktop\код ide\cursor\database_project"
+cd "c:\Users\User\Desktop\database_project"
 ```
 
 3. Запустите приложение:
