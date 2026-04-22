@@ -74,10 +74,3 @@ python app.py
 - `phone` — TEXT, NOT NULL
 - `group_name` — TEXT, NOT NULL
 
-## Проверка кода
-
-Можно проверить синтаксис:
-
-```bash
-python -m py_compile app.py
-```
